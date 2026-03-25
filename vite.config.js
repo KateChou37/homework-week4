@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/homework-week3/',
+  base: '/homework-week4/',
   server: {
     open: true,
   },
