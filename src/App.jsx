@@ -150,7 +150,7 @@ const deleteProduct = async (id) => {
   }catch(error){
     console.error(error.response);
   };
-  }
+   };
 
 const onSubmit = async (e) => {
   try{
